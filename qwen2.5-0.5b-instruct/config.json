@@ -3,6 +3,7 @@
     "description": "The default GaiaNet node config",
     "domain": "gaia.domains",
     "llamaedge_port": "8080",
+    "llamaedge_chat_port": "8080",
     "chat": "https://huggingface.co/gaianet/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q5_K_M.gguf",
     "chat_name": "Qwen2.5-0.5B-Instruct-Q5_K_M",
     "chat_ctx_size": "4096",
